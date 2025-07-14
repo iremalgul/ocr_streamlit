@@ -8,6 +8,11 @@ Bu Streamlit uygulaması, PDF dosyalarından OCR (Optical Character Recognition)
 - Otomatik OCR işlemi
 - Sayfa görüntüleme
 - Çıkarılan metni görüntüleme ve kopyalama
+  
+## Örnek
+![Web Interface](./ocr1.png)
+![Web Interface](./ocr2.png)
+
 
 ## Kurulum
 
